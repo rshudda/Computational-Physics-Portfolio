@@ -53,6 +53,15 @@ This portfolio supports my applications for a PhD in:
 
 ---
 
+## 📌 Notes
+
+This portfolio will soon expand with simulations in:
+
+- stochastic processes  
+- cellular automata  
+- percolation  
+- agent-based modeling
+
 ## 🛠 Requirements
 
 To run the notebooks:
@@ -66,13 +75,4 @@ Install dependencies:
 
 ```bash
 pip install numpy matplotlib jupyter
-
-## 📌 Notes
-
-This portfolio will soon expand with simulations in:
-
-- stochastic processes  
-- cellular automata  
-- percolation  
-- agent-based modeling
 
