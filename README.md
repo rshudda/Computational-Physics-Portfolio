@@ -14,22 +14,22 @@ The goal is to build intuition and basic computational skills for a future PhD i
 
 ## 📁 Contents
 
-### 1. [`random_walk/random_walk_1d.ipynb`](random_walk/random_walk_1d.ipynb)
+### 1. [`random_walk_1d.ipynb`](random_walk_1d.ipynb)
 - 1D random walk of a particle  
 - Position distribution after many steps  
 - Illustration of diffusion-like behaviour  
 
-### 2. [`logistic_map/logistic_map.ipynb`](logistic_map/logistic_map.ipynb)
+### 2. [`logistic_map.ipynb`](logistic_map.ipynb)
 - Iteration of the logistic map  
 - Fixed points, period-doubling, onset of chaos  
-- Parameter exploration (bifurcation-type behavior)  
+- Parameter exploration  
 
-### 3. [`monte_carlo_coin/monte_carlo_coin_flip.ipynb`](monte_carlo_coin/monte_carlo_coin_flip.ipynb)
+### 3. [`monte_carlo_coin_flip.ipynb`](monte_carlo_coin_flip.ipynb)
 - Monte Carlo estimation of probabilities  
 - Law of large numbers & convergence to 0.5  
 - Introductory Monte Carlo simulation  
 
-### 4. [`ising_model/ising_model_2d_basic.ipynb`](ising_model/ising_model_2d_basic.ipynb)
+### 4. [`ising_model_2d_basic.ipynb`](ising_model_2d_basic.ipynb)
 - 2D Ising model using Metropolis updates  
 - Magnetization vs temperature (qualitative)  
 - Emergent order from local spin interactions  
@@ -38,11 +38,10 @@ The goal is to build intuition and basic computational skills for a future PhD i
 
 ## 🎯 Purpose
 
-These notebooks are designed as learning tools.  
-They demonstrate that I can:
+These notebooks demonstrate that I can:
 
 - translate physical ideas into algorithms  
-- write clear, readable Python code  
+- write clear and readable Python code  
 - visualize results and connect them to physical intuition  
 
 This portfolio supports my applications for a PhD in:
