@@ -62,18 +62,6 @@ To run the notebooks:
 - `matplotlib`  
 - `jupyter`  
 
-📌 Notes
-This portfolio will soon expand with simulations in:
-
-stochastic processes
-
-cellular automata
-
-percolation
-
-agent-based modeling
-
-
 Install dependencies:
 
 ```bash
