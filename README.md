@@ -1,54 +1,69 @@
-Personal Website: https://rshudda.github.io
-
 # Statistical Physics & Complex Systems — Starter Portfolio
 
-**Author:** Ravishankar Hudda  
-**Focus:** Computational modelling of emergent behaviour in complex physical systems
+**Personal Website:** https://rshudda.github.io  
+**Author:** *Ravishankar Hudda*  
+**GitHub:** https://github.com/rshudda  
+**Email:** rhudda.999rshudda@gmail.com  
 
-This repository contains simple but instructive simulations in statistical physics and complex systems.  
-The goal is to build intuition and basic computational skills for a future PhD in **computational and statistical physics**.
+---
 
-## Contents
+This repository contains simple but instructive simulations in **statistical physics** and **complex systems**.  
+The goal is to build intuition and basic computational skills for a future PhD in **computational modelling**.
 
-1. `random_walk/random_walk_1d.ipynb`  
-   - 1D random walk of a particle  
-   - Position distribution after many steps  
-   - Illustration of diffusion-like behaviour
+---
 
-2. `logistic_map/logistic_map.ipynb`  
-   - Iteration of the logistic map  
-   - Fixed points, period-doubling, and onset of chaos  
-   - Bifurcation-style exploration by varying the parameter
+## 📁 Contents
 
-3. `monte_carlo_coin/monte_carlo_coin_flip.ipynb`  
-   - Monte Carlo estimation of probabilities using repeated coin flips  
-   - Law of large numbers and convergence to 0.5  
-   - Simple introduction to Monte Carlo ideas
+### 1. [`random_walk/random_walk_1d.ipynb`](random_walk/random_walk_1d.ipynb)
+- 1D random walk of a particle  
+- Position distribution after many steps  
+- Illustration of diffusion-like behaviour  
 
-4. `ising_model/ising_model_2d_basic.ipynb`  
-   - Very simple 2D Ising model using Metropolis updates  
-   - Magnetization vs temperature (qualitative)  
-   - Illustration of emergent order from local interactions
+### 2. [`logistic_map/logistic_map.ipynb`](logistic_map/logistic_map.ipynb)
+- Iteration of the logistic map  
+- Fixed points, period-doubling, onset of chaos  
+- Parameter exploration (bifurcation-type behavior)  
 
-## Purpose
+### 3. [`monte_carlo_coin/monte_carlo_coin_flip.ipynb`](monte_carlo_coin/monte_carlo_coin_flip.ipynb)
+- Monte Carlo estimation of probabilities  
+- Law of large numbers & convergence to 0.5  
+- Introductory Monte Carlo simulation  
 
-These notebooks are not meant to be production-level codes but learning tools.  
+### 4. [`ising_model/ising_model_2d_basic.ipynb`](ising_model/ising_model_2d_basic.ipynb)
+- 2D Ising model using Metropolis updates  
+- Magnetization vs temperature (qualitative)  
+- Emergent order from local spin interactions  
+
+---
+
+## 🎯 Purpose
+
+These notebooks are designed as learning tools.  
 They demonstrate that I can:
 
-- Translate physical ideas into simple algorithms  
-- Write clear and readable Python code  
-- Visualize results and connect them to physical intuition  
+- translate physical ideas into algorithms  
+- write clear, readable Python code  
+- visualize results and connect them to physical intuition  
 
-This starter portfolio supports my applications for a PhD in **statistical physics, complex systems, and computational modelling**.
+This portfolio supports my applications for a PhD in:
 
-## Requirements
+- **Statistical Physics**  
+- **Complex Systems**  
+- **Nonlinear Dynamics**  
+- **Computational Physics**
+
+---
+
+## 🛠 Requirements
+
+To run the notebooks:
 
 - Python 3  
 - `numpy`  
 - `matplotlib`  
-- `jupyter` (for running `.ipynb` notebooks)
+- `jupyter`  
 
-You can install dependencies with:
+Install dependencies:
 
 ```bash
 pip install numpy matplotlib jupyter
