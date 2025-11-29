@@ -76,5 +76,3 @@ This portfolio will soon expand with simulations in:
 - cellular automata  
 - percolation  
 - agent-based modeling
-
-
