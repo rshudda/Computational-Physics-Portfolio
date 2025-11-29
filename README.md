@@ -62,12 +62,6 @@ To run the notebooks:
 - `matplotlib`  
 - `jupyter`  
 
-Install dependencies:
-
-```bash
-pip install numpy matplotlib jupyter
-
-
 📌 Notes
 This portfolio will soon expand with simulations in:
 
@@ -78,3 +72,9 @@ cellular automata
 percolation
 
 agent-based modeling
+
+
+Install dependencies:
+
+```bash
+pip install numpy matplotlib jupyter
