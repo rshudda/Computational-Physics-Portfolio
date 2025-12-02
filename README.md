@@ -12,29 +12,28 @@ The goal is to build intuition and basic computational skills for a future PhD i
 
 ## 📁 Contents
 
-### **1. random_walk_1d.ipynb**
+### **1. [random_walk_1d.ipynb](random_walk_1d.ipynb)**
 - 1D random walk of a particle  
 - Position distribution after many steps  
 - Illustration of diffusion-like behaviour  
 
 ---
 
-### **2. logistic_map.ipynb**
+### **2. [logistic_map.ipynb](logistic_map.ipynb)**
 - Iteration of the logistic map  
 - Fixed points, period-doubling, onset of chaos  
-- Parameter exploration and bifurcation intuition  
+- Parameter exploration  
 
 ---
 
-### **3. monte_carlo_coin_flip.ipynb**
+### **3. [monte_carlo_coin_flip.ipynb](monte_carlo_coin_flip.ipynb)**
 - Monte Carlo estimation of probabilities  
 - Law of large numbers  
 - Convergence of averages to 0.5  
-- Introductory Monte Carlo simulation  
 
 ---
 
-### **4. ising_model_simulation.ipynb**
+### **4. [ising_model_simulation.ipynb](ising_model_simulation.ipynb)**
 - 2D Ising model using the Metropolis algorithm  
 - Local spin updates with ΔE computation  
 - Emergent order at low temperature  
@@ -49,7 +48,7 @@ These notebooks demonstrate that I can:
 - translate physical ideas into algorithms  
 - write clear and readable Python code  
 - visualize results and interpret physical behaviour  
-- connect basic simulations to concepts in statistical physics and complexity science  
+- connect simulations to concepts in statistical physics and complexity science  
 
 This portfolio supports my applications for a PhD in:
 
